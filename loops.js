@@ -8,5 +8,5 @@ function forLoop(array) {
       }
     } 
     return myArr;
-}
+  }
 
